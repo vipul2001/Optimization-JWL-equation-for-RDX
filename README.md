@@ -7,3 +7,6 @@ We use to Determine the constants for isentropic equation
 3. A
 4. B
 5. C
+
+![rewsult1.png](result1.png)
+![verificatioin.png](verification.png)
